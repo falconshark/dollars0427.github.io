@@ -1,0 +1,7 @@
+[bg file='common/bg.png']
+[text show]
+Hello, world![p]
+[fg center file='fg/image.png']
+【Girl】
+Your new game project has been created.[r] Edit it to tell your story![p]
+[router push path='/title']
