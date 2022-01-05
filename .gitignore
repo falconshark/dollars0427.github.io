@@ -1,0 +1,8 @@
+node_modules
+.vscode
+/dist
+/build
+/docs
+.DS_Store
+/example
+webpack.config.example.js
